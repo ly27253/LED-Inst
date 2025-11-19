@@ -11,7 +11,7 @@ To simulate the viewpoint of robotic harvesting, the camera was positioned 50–
 Below are representative examples showing the diversity of lighting, viewpoints, and orchard conditions:
 
 <p align="center">
-  <img src="./Data Samples.png" alt="Compares branch segmentation accuracy, computational cost, and parameter size on the orchard dataset. Smaller circle radii indicate fewer parameters. Our method achieves an optimal balance among these metrics." width="60%">
+  <img src="./Data Samples.png" alt="Compares branch segmentation accuracy, computational cost, and parameter size on the orchard dataset. Smaller circle radii indicate fewer parameters. Our method achieves an optimal balance among these metrics." width="90%">
 </p>
 <p align="center">
   Data Samples.
@@ -23,7 +23,7 @@ Over 2,000 raw images were acquired, and 1,486 valid samples were retained after
 Instance segmentation masks were generated using SAM; an example is shown below:
 
 <p align="center">
-  <img src="./Example of annotation.png" alt="Compares branch segmentation accuracy, computational cost, and parameter size on the orchard dataset. Smaller circle radii indicate fewer parameters. Our method achieves an optimal balance among these metrics." width="60%">
+  <img src="./Example of annotation.png" alt="Compares branch segmentation accuracy, computational cost, and parameter size on the orchard dataset. Smaller circle radii indicate fewer parameters. Our method achieves an optimal balance among these metrics." width="90%">
 </p>
 <p align="center">
   Example of annotation.
