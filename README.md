@@ -43,6 +43,27 @@ Includes:
 - **Annotations CocoJson.zip** — COCO-style instance segmentation labels  
 
 
+# 📁 Dataset Structure
+
+After downloading and extracting the dataset files, organize **NWPU_Apple_Seg_Data** as follows:
+
+```plaintext
+NWPU_Apple_Seg_Data/
+│
+├── train2017/
+│   └── images/                     # RGB orchard images
+│       ├── 00000001.jpg
+│       ├── 00000002.jpg
+│       ├── ...
+│
+├── annotations/
+│   ├── instances_train2017.json    # COCO-style training annotations
+│   └── instances_val2017.json      # COCO-style validation annotations
+
+
+```
+
+
 ## 📌 Description
 **NWPU_Apple_Seg_Data** provides a diverse and realistic benchmark for apple instance segmentation, suitable for research in agricultural robotics, fruit detection, yield estimation, and autonomous harvesting.
 
