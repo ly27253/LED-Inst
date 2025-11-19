@@ -25,16 +25,13 @@ The dataset is divided into training and validation subsets in an 8:2 ratio to s
 
 The dataset is publicly available on Google Drive:
 
-🔗 **Download Link:**  
-https://drive.google.com/drive/u/0/folders/1Yw_rb0LoRG5CbLaSbzgNX7aReTlF5cWA
+👉 **[Download NWPU_Apple_Seg_Data](https://drive.google.com/drive/u/0/folders/1Yw_rb0LoRG5CbLaSbzgNX7aReTlF5cWA)**
 
-The repository includes two downloadable files:
+Includes:
 
-- **NWPU-Apple Branch Seg data.zip**  
-  → Contains all RGB orchard images.
+- **NWPU-Apple Branch Seg data.zip** — RGB images  
+- **Annotations CocoJson.zip** — COCO-style instance segmentation labels  
 
-- **Annotations CocoJson.zip**  
-  → Contains COCO-style instance segmentation JSON annotations.
 
 ## 📌 Description
 **NWPU_Apple_Seg_Data** provides a diverse and realistic benchmark for apple instance segmentation, suitable for research in agricultural robotics, fruit detection, yield estimation, and autonomous harvesting.
