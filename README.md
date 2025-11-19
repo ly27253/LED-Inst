@@ -10,14 +10,24 @@ To simulate the viewpoint of robotic harvesting, the camera was positioned 50–
 ## 📌 Data Samples
 Below are representative examples showing the diversity of lighting, viewpoints, and orchard conditions:
 
-![Data Samples](Data Samples.png)
+<p align="center">
+  <img src="./Data Samples.png" alt="Compares branch segmentation accuracy, computational cost, and parameter size on the orchard dataset. Smaller circle radii indicate fewer parameters. Our method achieves an optimal balance among these metrics." width="60%">
+</p>
+<p align="center">
+  Data Samples.
+</p>
 
 Over 2,000 raw images were acquired, and 1,486 valid samples were retained after manual inspection. All instance masks were annotated using the Segment Anything model for high-quality segmentation.
 
 ## 📌 Example of Annotations
 Instance segmentation masks were generated using SAM; an example is shown below:
 
-![Example of Annotations](Example of annotation.png)
+<p align="center">
+  <img src="./Example of annotation.png" alt="Compares branch segmentation accuracy, computational cost, and parameter size on the orchard dataset. Smaller circle radii indicate fewer parameters. Our method achieves an optimal balance among these metrics." width="60%">
+</p>
+<p align="center">
+  Example of annotation.
+</p>
 
 The dataset is divided into training and validation subsets in an 8:2 ratio to support model development and evaluation.
 
