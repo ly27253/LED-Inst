@@ -1,5 +1,5 @@
 # LED-Inst
-LED-Net: LED-Inst: A Lightweight and Efficient Dual-Branch Architecture for Apple Detection and Instance Segmentation in Orchard Environments.
+LED-Inst: A Lightweight and Efficient Dual-Branch Architecture for Apple Detection and Instance Segmentation in Orchard Environments.
 
 # NWPU_Apple_Seg_Data
 
