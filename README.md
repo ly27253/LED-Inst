@@ -1,5 +1,5 @@
 # LED-Inst
-LED-Net: A lightweight and efficient dual-branch convolutional neural network designed to address the challenge of achieving high-performance tree branch and trunk semantic segmentation in resource-constrained mobile device environments.
+LED-Net: LED-Inst: A Lightweight and Efficient Dual-Branch Architecture for Apple Detection and Instance Segmentation in Orchard Environments.
 
 # NWPU_Apple_Seg_Data
 
